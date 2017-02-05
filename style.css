@@ -1,0 +1,41 @@
+body {
+background: #dce1e2;
+text-align: center;
+}
+#main{
+	width: 75%;
+	height: 500px;
+	background:#ffffff;
+	margin: 5% auto;
+	padding: 5%;
+	
+}
+h1 {
+	text-align: center; 
+	text-align: top;
+	font-style: italic;
+	font-family: "Times New Roman";
+	font: 72pt;
+	color: #2d2c2d;
+}
+hr {height: .01%;
+}
+p{
+	text-align: left;
+	text-indent: 5%;
+	font-family: "Times New Roman";
+	font: 14pt;
+}
+#slider{
+	overflow: hidden;
+}
+#slider figure img{
+	width: 100%;	
+}
+#slider figure {
+	position: relative;
+	width: 100%;
+	margin: 5% auto;
+	align: center;
+	animation: 5s slider infinite;
+}
