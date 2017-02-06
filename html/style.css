@@ -1,0 +1,69 @@
+body {
+background: #dce1e2;
+text-align: center;
+}
+#main{
+	 border-style: solid;
+	 border-width: thin;
+	 
+	border-color: #c4d99c;
+	width: 90%;
+	height: 10%;
+	background:#ffffff;
+	margin: 5% auto;
+	padding: 5%;
+	border-radius:100%;
+}
+	
+}
+h1 {
+	text-align: center; 
+	word-spacing:0.5em;
+	font-style: italic;
+	line-height: 2em;
+	color: SteelBlue;
+	font-size: 110px;
+	height: 10%
+	font-family: 'Alex Brush', cursive;
+	}
+h2{
+	font-family: 'Alex Brush', cursive;
+	font-size: 2em;
+	}
+.title {
+	 position: relative;
+	 
+	 height: 40%;
+	 width: 100%;
+}
+.navigation li {
+  color: #2E3234;
+  display: inline-block;
+  font-size: 30px;
+  font-weight: 100;
+  letter-spacing: 1px;
+  margin: 1%;
+  
+  font-family: 'Alex Brush', cursive;
+}
+
+hr {
+	height: .01%;
+	background: #2E3234;
+}
+p, h3{
+	text-align: left;
+	text-indent: 5%;
+	line-height:1.5em;
+	font-size:21px;
+	color: #2E3234;
+	word-spacing:0.1em;
+	font-family: font-family: 'Playfair Display', serif;
+	margin: 5%
+}
+
+h2{
+	text-align: center;
+}	
+	
+
