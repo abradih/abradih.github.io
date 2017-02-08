@@ -1,20 +1,31 @@
 body {
-background: #dce1e2;
+background: #f3f3f3  ;
 text-align: center;
+
 }
 #main{
-	 border-style: solid;
-	 border-width: thin;
-	 
-	border-color: #c4d99c;
-	width: 90%;
-	height: 10%;
-	background:#ffffff;
-	margin: 5% auto;
-	padding: 5%;
-	border-radius:100%;
-}
 	
+	width: 100%;
+	height: 250px;
+	background:#ffffff;
+	margin-top: -20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	padding-top: 50px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	
+}
+	.block{
+		background-color: #ffffff;
+		padding: 20%;
+		padding-top: 3px;
+		padding-bottom: 3px;
+		margin-top: 1%;
+		margin-bottom: 20px;
+		border-radius: 10px;
+	}
 }
 h1 {
 	text-align: center; 
@@ -33,8 +44,7 @@ h2{
 .title {
 	 position: relative;
 	 
-	 height: 40%;
-	 width: 100%;
+	
 }
 .navigation li {
   color: #2E3234;
@@ -53,13 +63,13 @@ hr {
 }
 p, h3{
 	text-align: left;
-	text-indent: 5%;
+	text-indent: 5em;
 	line-height:1.5em;
 	font-size:21px;
 	color: #2E3234;
 	word-spacing:0.1em;
 	font-family: font-family: 'Playfair Display', serif;
-	margin: 5%
+	
 }
 
 h2{
