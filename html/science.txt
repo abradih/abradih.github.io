@@ -37,7 +37,7 @@
 		<li><a href="sports.html">Sports</a></li>
 		<li><a href="photography.html">Photography</a></li>
 		<li><a href="arts.html">Arts</a></li>
-		<li><a href="science.html">Science</a></li>
+		<li><a href="#">Science</a></li>
 	</ul>
 		
 	</div>
