@@ -5,7 +5,7 @@ text-align: center;
 }
 #main{
 	
-	width: 100%;
+	width: 1850px;
 	height: 274px;
 	background:#ffffff;
 	margin-top: -30px;
@@ -31,7 +31,7 @@ text-align: center;
 		padding-left: 50px;
 		padding-right: 50px;
 		padding-top: 3px;
-		padding-bottom: 50px;
+		padding-bottom: 3px;
 		margin-top: 5px;
 		margin-bottom: 20px;
 		border-radius: 10px;
@@ -108,11 +108,15 @@ p, h3{
 	color: #2E3234;
 	word-spacing:0.1em;
 	font-family: font-family: 'Playfair Display', serif;
-	
+	text-decoration: none;
 }
 
 h2{
 	text-align: center;
 }	
 	
+img{
+	
+	
+}
 
