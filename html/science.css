@@ -1,0 +1,26 @@
+h2{
+	font-family: font-family: 'Playfair Display', serif;
+	text-align: left;
+	line-height:1.5em;
+	font-size:20px;
+	color: #2E3234;
+	margin-right: 20%;
+	margin-left: 2%;
+}
+a{
+	text-decoration: none;
+	color: #2E3234;
+}
+.micro li{
+	margin-left:20%;
+	margin-right:20%;
+	font-size:20px;
+	font-family: font-family: 'Playfair Display', serif;
+
+}
+.yeast{
+	margin-left: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+}
