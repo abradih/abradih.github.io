@@ -1,8 +1,19 @@
 .diyphotos {
 	margin-bottom: 50px;
 	margin-top: 0px;
-	display:inline-block;
+
 }
 #img{
+	
 	text-align: center;
+}
+a {
+	text-decoration: none;
+	color: #2E3234;;
+}
+a:hover{
+	color: steelBlue;
+}
+#rotate{
+	transform: rotate(90deg);
 }
