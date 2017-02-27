@@ -1,5 +1,5 @@
 .diyphotos {
-	margin-bottom: 50px;
+	margin-bottom: 0px;
 	margin-top: 0px;
 
 }
@@ -13,7 +13,4 @@ a {
 }
 a:hover{
 	color: steelBlue;
-}
-#rotate{
-	transform: rotate(90deg);
 }
