@@ -28,6 +28,15 @@ h2{
 	font-family: font-family: 'Playfair Display', serif;
 	text-align: left;
 	line-height:1.5em;
+	font-size:22px;
+	color: #2E3234;
+	margin-right: 20%;
+	margin-left: 20%;
+}
+h3{
+	font-family: font-family: 'Playfair Display', serif;
+	text-align: left;
+	line-height:1.5em;
 	font-size:20px;
 	color: #2E3234;
 	margin-right: 20%;
