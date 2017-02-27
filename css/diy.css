@@ -14,3 +14,9 @@ a {
 a:hover{
 	color: steelBlue;
 }
+h3{
+	margin-right: 20%;
+	margin-left: 20%;
+	font-size:20px;
+	color: #2E3234;
+}
