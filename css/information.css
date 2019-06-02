@@ -38,3 +38,10 @@ h5{
   margin-left: 50%;
   color: #2E3234;
 }
+.button a{
+  background: #f3f3f3;
+	border: 1px solid #f3f3f3;
+	color:SteelBlue;
+	text-decoration: none;
+	border-radius: 10px;
+}
