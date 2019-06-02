@@ -28,14 +28,13 @@ a:hover{
 
 h4{
   text-align: left;
-  margin-right: 10%;
-  margin-left: 10%;
+  margin-right: 20%;
+  margin-left: 20%;
   color: #2E3234;
 }
 
 h5{
-  text-align: left;
-  margin-right: 25%;
-  margin-left: 25%;
+  text-align: center;
+  margin-left: 50%;
   color: #2E3234;
 }
