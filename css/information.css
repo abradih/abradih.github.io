@@ -1,7 +1,4 @@
-b {
-	text-decoration: none;
-	color: #2E3234;;
-}
+
 h2{
 	font-family: font-family: 'Playfair Display', serif;
 	text-align: left;
@@ -20,11 +17,25 @@ h3{
 	color: #2E3234;
 }
 
-a {
+a{
 	text-decoration: none;
 	color: #2E3234;;
 }
 
 a:hover{
 	color: steelBlue;
+}
+
+h4{
+  text-align: left;
+  margin-right: 10%;
+  margin-left: 10%;
+  color: #2E3234;
+}
+
+h5{
+  text-align: left;
+  margin-right: 25%;
+  margin-left: 25%;
+  color: #2E3234;
 }
