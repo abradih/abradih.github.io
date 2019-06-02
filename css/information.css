@@ -1,14 +1,4 @@
 
-h2{
-	font-family: font-family: 'Playfair Display', serif;
-	text-align: left;
-	line-height:1.5em;
-	font-size:20px;
-	color: #2E3234;
-	margin-right: 20%;
-	margin-left: 20%;
-
-}
 
 h3{
 	margin-right: 20%;
@@ -37,11 +27,4 @@ h5{
   text-align: center;
   margin-left: 50%;
   color: #2E3234;
-}
-.button a{
-  background: #f3f3f3;
-	border: 1px solid #f3f3f3;
-	color:SteelBlue;
-	text-decoration: none;
-	border-radius: 10px;
 }
