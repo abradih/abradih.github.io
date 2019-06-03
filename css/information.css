@@ -3,7 +3,7 @@
 h3{
 	margin-right: 20%;
 	margin-left: 20%;
-	font-size:20px;
+	font-size:25px;
 	color: #2E3234;
 }
 
@@ -21,10 +21,12 @@ h4{
   margin-right: 20%;
   margin-left: 20%;
   color: #2E3234;
+	font-size: 20px;
 }
 
 h5{
   text-align: center;
   margin-left: 50%;
   color: #2E3234;
+	font-size: 20px;
 }
