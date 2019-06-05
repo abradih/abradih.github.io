@@ -5,28 +5,36 @@ h3{
 	margin-left: 20%;
 	font-size:25px;
 	color: #2E3234;
-}
-
-a{
-	text-decoration: none;
-	color: #2E3234;;
-}
-
-a:hover{
-	color: steelBlue;
+	line-height:1.5em;
 }
 
 h4{
+	font-family: font-family: 'Playfair Display', serif;
+	line-height:1.5em;
   text-align: left;
   margin-right: 20%;
-  margin-left: 20%;
+  margin-left: 25%;
   color: #2E3234;
 	font-size: 20px;
 }
 
-h5{
-  text-align: center;
-  margin-left: 50%;
+h6{
+	font-family: font-family: 'Playfair Display', serif;
+	text-align: left;
+	line-height:1.5em;
+	font-size:18px;
+	color: #2E3234;
+	margin-right: 20%;
+	margin-left: 20%;
+	line-height:1.5em;
+}
+
+p{
+  font-family: font-family: 'Playfair Display', serif;
+  text-align: left;
+  line-height:1.5em;
+  font-size:16px;
   color: #2E3234;
-	font-size: 20px;
+  margin-right: 20%;
+  margin-left: 25%;
 }
