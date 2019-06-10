@@ -38,3 +38,21 @@ p{
   margin-right: 20%;
   margin-left: 25%;
 }
+table{
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+	font-size:18px;
+	color: SteelBlue;
+	background-color: #f3f3f3;
+	margin-right: 20%;
+	margin-left: 20%;
+	line-height:1em;
+}
+td{
+	padding: 10px;
+	border-bottom: 2px solid white;
+	border-right: 2px solid white;
+}
+th{
+	border-bottom: 2px solid #111111 ;
+}
