@@ -1,3 +1,28 @@
+a{
+	text-decoration: none;
+	color: #2E3234;
+}
+a:hover{
+	color: steelBlue;
+}
+h2{
+	font-family: font-family: 'Playfair Display', serif;
+	text-align: left;
+	line-height:1.5em;
+	font-size:22px;
+	color: #2E3234;
+	margin-right: 20%;
+	margin-left: 20%;
+}
+h3{
+	font-family: font-family: 'Playfair Display', serif;
+	text-align: left;
+	line-height:1.5em;
+	font-size:20px;
+	color: #2E3234;
+	margin-right: 20%;
+	margin-left: 20%;
+}
 
 #bar{
 	width:100%;
@@ -8,7 +33,7 @@
 }
 
 #logo{
-	
+
 	width: 100%;
 	height: 280px;
 	background:#ffffff;
@@ -16,16 +41,16 @@
 	margin-left: auto;
 	margin-right: auto;
 	font-family: 'Alex Brush', cursive;
-	text-align: center; 
+	text-align: center;
 	word-spacing:0.5em;
 	font-style: italic;
 	color: SteelBlue;
 	font-size: 40px;
 	padding-top: 10px;
 	line-height: 1px;
-	
+
 }
-	
+
 .navigation li {
   color: #2E3234;
   display: inline-block;
@@ -36,7 +61,7 @@
   font-family: 'Alex Brush', cursive;
   padding-left: 5px;
   padding-right: 5px;
- 
+
 }
 .navigation a{
 	text-decoration: none;
@@ -53,7 +78,7 @@
 }
 .navigation {
 	padding-top: -500px;
-	
+
 }
 .selected a{
 	background: #f3f3f3;
@@ -71,7 +96,7 @@
 
 #bottom{
 	padding-top:1px;
-	
+
 }
 
 p{
@@ -83,7 +108,7 @@ p{
 	font-family: font-family: 'Playfair Display', serif;
 	margin-right: 20%;
 	margin-left: 20%;
-	
+
 }
 
 /*slider*/
@@ -136,7 +161,7 @@ a.control_prev, a.control_next {
 a.control_prev:hover, a.control_next:hover {
   opacity: 1;
   -webkit-transition: all 0.2s ease;
-  color: grey; 
+  color: grey;
 }
 
 a.control_prev {
@@ -147,7 +172,3 @@ a.control_next {
   right: 0;
   border-radius: 2px 0 0 2px;
 }
-
-
-
-
