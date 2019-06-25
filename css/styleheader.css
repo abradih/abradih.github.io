@@ -23,6 +23,15 @@ h3{
 	margin-right: 20%;
 	margin-left: 20%;
 }
+h4{
+	font-family: font-family: 'Playfair Display', serif;
+	text-align: left;
+	line-height:1.5em;
+	font-size:14px;
+	color: #2E3234;
+	margin-right: 20%;
+	margin-left: 20%;
+}
 
 #bar{
 	width:100%;
