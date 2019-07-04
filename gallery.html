@@ -11,14 +11,15 @@
 	<meta name="theme-color" content="#ffffff">
 	<!-- css style -->
 	<link href="css/styleheader.css" type="text/css" rel="stylesheet">
+	<link rel="stylesheet" href="css/lightbox.min.css">
 	<!-- fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Alex+Brush" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
 	<!-- javascript code -->
 	<script type="text/javascript">if(window.location.hostname.length != 0) { if(window.location.protocol != "https:") { window.location.href = "https:" + window.location.href.substring(window.location.protocol.length); } } </script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-	<script src="js/googleanalytics.js" type="text/javascript"></script>
+	<script src="js/jquery.min.js" type="text/javascript"></script>
 	<script src="js/styleheader.js" type="text/javascript"></script>
+	<script src="js/googleanalytics.js" type="text/javascript"></script>
 </head>
 	<!--header-->
 <body>
@@ -26,7 +27,7 @@
 	<h1>Amber <img src="images/AAlogo.png" alt="Amber Aldrich" height="150px" width="150px" align="center"> Aldrich</h1>
 	 <div class="navigation">
   	 <ul>
-  		 <hr></hr>
+  		<hr></hr>
   		<li><a href="index.html">Home</a></li>
   		<li><a href="information.html">Price</a></li>
   		<li><a href="contact.html">Contact</a></li>
@@ -42,11 +43,27 @@
 <p>All artwork I've done of pets, and maybe a little of some other things.</p>
   <div id="img">
     <div class="photos">
-      <img src="images/lily.png" height="500px">
-      <img src="images/2dogs.png" height="500px">
-      <img src="images/PetuniaFinalDrawingwithLogo.jpg" height="500px">
-      <img src="images/Punky.jpg" height="500px">
-      <img src="images/Sebastian.jpg" height="500px">
+	
+      <a href="images/lily.png" data-lightbox="Gallery" data-title="Lilly">
+  	  	<img src="images/lily.png" alt="Lilly" height="500px" />
+      </a>
+	  
+      <a href="images/2dogs.png" data-lightbox="Gallery" data-title="2 Dogs">
+  	  	<img src="images/2dogs.png" alt="2 Dogs" height="500px" />
+      </a>
+	  
+      <a href="images/PetuniaFinalDrawingwithLogo.jpg" data-lightbox="Gallery" data-title="Petunia">
+  	  	<img src="images/PetuniaFinalDrawingwithLogo.jpg" alt="Petunia" height="500px" />
+      </a>
+	  
+      <a href="images/Punky.jpg" data-lightbox="Gallery" data-title="Punky">
+  	  	<img src="images/Punky.jpg" alt="Punky" height="500px" />
+      </a>
+	  
+      <a href="images/Sebastian.jpg" data-lightbox="Gallery" data-title="Sebastian">
+  	  	<img src="images/Sebastian.jpg" alt="Sebastian" height="500px" />
+      </a>
+	  
     </div>
   </div>
 </div>
@@ -73,5 +90,7 @@
   <a href="https://www.instagram.com/amber_aldrich/?ref=badge" target="_blank"> <img src="images/instagramlogo.png" width="30px" align="right" ><a>
   <p><img src="images/AAlogo.png" alt="Amber Aldrich" height="25px" width="25px" align="center">&nbsp;Designed by Amber Aldrich &copy;&nbsp;2019</p>
 </div>
+
+<script src="js/lightbox-plus-jquery.min.js" type="text/javascript"></script>
 </body>
 </html>
